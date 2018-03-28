@@ -45,7 +45,7 @@ SoftwareSerial SwSerial(8, 9); // RX, TX
 #include <DHT.h>
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "0970a4832e9d4b5d918b48be8e3bad03";
+char auth[] = "ENTR YOUR ID";
 
 #define DHTPIN 11          // What digital pin we're connected to
 
